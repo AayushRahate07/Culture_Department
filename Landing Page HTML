@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="SemesterProject.css" />
+    <script type="text/javascript" src="https://simplemaps.com/custom/country/L6UAsfiP/mapdata.js"></script>		
+    <script  type="text/javascript" src="https://simplemaps.com/custom/country/L6UAsfiP/worldmap.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Carme&family=Geologica:wght@100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prata&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+  </head>
+  <body>
+    <div class="header">
+      <img src="1.png" style="width: 100%" />
+      <img
+        src="Emblem_of_India.svg.png"
+        style="
+          height: 16dvw;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: -11%;
+        "
+      />
+      <div class="ministry">
+        <p
+          style="
+            font-size: 6dvw;
+            color: #eb5a49;
+            -webkit-text-stroke-width: 0.4px;
+            -webkit-text-stroke-color: rgb(94, 1, 1);">
+          Ministry of Culture
+        </p>
+      </div>
+    </div>
+
+    <div class="DOM">
+      <div class="domain">
+         <img src="DomainBG4.png" style="width: 21%;">
+         <img src="DomainBG4.png" style="width: 21%;">
+         <img src="DomainBG4.png" style="width: 21%;"> 
+         <img src="DomainBG4.png" style="width: 21%;">
+      </div>
+
+      <div class="domainname">
+        <div class="one">About Us</div>
+         <div class="two">Mission</div>
+         <div class="three">Zones</div>
+        <div class="four">Art Forms</div>
+
+      </div>
+      </div>
+
+<div class="mapprev">
+</div>
+
+<div class="Theme">
+  <div class="themeheading">
+  <div class="main">Weaving the Threads of Unity!</div>
+  <div class="secondmain">Heritage woven into textiles</div>
+  </div>
+</div>
+
+<div class="separator"><img src="Separator 3.png" style="width: 100%;"></div>
+<div class="mappp">
+<div id="map">
+</div>
+<div class="map2">
+  <div class="map2heading">
+    <img src="Incredible-India-White.png" 
+    style="width: 80%; 
+    background-color: transparent;
+    margin-top: 5%;">
+    </div>
+    <div class="map2content">
+      <span style="background-color:#000e2b;">
+      India's handmade textiles & fabrics are embedded in every aspect of its identity. 
+      The history of textiles <br> 
+      </span> 
+      <span style="background-color: #dc621f; color: #000e2b; font-weight: normal; padding-left: 5px;"> 
+       dates back to at least 6,000 years. 
+      </span> 
+      The Indian textile tradition is the oldest in the world with 
+      roots that are as far back as 
+      <span style="background-color: #003194be; font-weight: normal; padding-left: 5px;">
+      Indus Valley civilization. 
+      </span>
+      Rigveda is the earliest of the Veda, and it provides literary 
+      written documentation concerning textiles in the art of weaving 
+      among Indians. Indian textiles, especially cotton and silk, were 
+      highly prized commodities along trade routes, including the famous Silk Road.
+      The textile industry continues to be the 
+      <span style="background-color: #dc611f71; color: #ffffff; font-weight: normal; padding-right: 4px; padding-left: 4px;"> 
+      second-largest employment 
+      </span>
+      generating sector in India. 
+      It offers direct employment to 
+      <span style="background-color: #003194be; font-weight: normal; padding-left: 5px;">
+      over 35 million people  
+      </span> 
+      in the country. Khadi, Banarasi silk, and 
+      Pashmina have gained global recognition for their quality and craftsmanship.
+ </div>
+</div>
+</div>
+<div class="separator"><img src="Separator 3.png" style="width: 100%;"></div>
+</body>
+</html>
