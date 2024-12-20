@@ -1,0 +1,112 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.header{
+  background-color:#e7d6ce ;
+}
+.ministry {
+  font-family: Samarkan;
+  text-align: center;
+  padding-bottom: 0.1%;
+  padding-top: 1%;
+  background-color:#e7d6ce ;
+}
+.domain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: -10%;
+  background-color:#e7d6ce ;
+}
+
+.domainname {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Samarkan;
+  margin-top: -16.5%;
+  font-size: 6dvh;
+  color: black;
+
+}
+.one {
+  width: 21%;
+  background-color: rgba(255, 255, 255, 0);
+}
+.two {
+  width: 21%;
+  background-color: rgba(255, 255, 255, 0);
+}
+.three {
+  width: 21%;
+  background-color: rgba(255, 255, 255, 0);
+}
+.four {
+  width: 21%;
+  background-color: rgba(255, 255, 255, 0);
+}
+.mapprev {
+  padding-top: 15.5%;
+  background-color:#e7d6ce;
+  color: #e7d6ce;
+}
+
+.themeheading {
+  width: 100%;
+  height: 40dvh;
+  background-image: url("Xww.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  border-top: 5px rgb(255, 115, 0) solid;
+}
+.main {
+  width: 90%;
+  height: 55%;
+  font-size: 12dvh;
+  color: yellow;
+  font-family: samarkan;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(255, 136, 0);
+  align-content: center;
+  align-content: end;
+  padding-left: 5%;
+}
+.secondmain {
+  width: 80%;
+  height: 45%;
+  font-size: 8dvh;
+  font-family: Prata;
+  padding-left: 5%;
+  color: white;
+}
+
+.mappp {
+  display: flex;
+  padding-top: -20px;
+}
+#map {
+  width: 55%;
+  background-color: #000e2b;
+}
+.map2 {
+  width: 45%;
+}
+.map2heading {
+  height: 25%;
+  background-color: #000e2b;
+}
+.map2content {
+  height: 75%;
+  font-size: 2.7dvh;
+  line-height: 4.5dvh;
+  padding-right: 18%;
+  font-family: Geologica;
+  font-weight: lighter;
+  color: rgb(223, 238, 255);
+  background-color: #000e2b;
+}
+.separator{
+  background-color: #000e2b;
+}
